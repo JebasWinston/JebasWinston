@@ -1,4 +1,4 @@
-- 👋 Hi, I’m JebasWinston
+- 👋 Hi, I’m Jebas Winston E
 - 👀 I’m interested in Web/Mobile Application Development
 - 🌱 I’m currently learning React
 - 💞️ I love to engage with people for ameliorating ourselves
